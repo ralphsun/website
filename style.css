@@ -3,7 +3,7 @@ h1 {
     color: red;
 }
 
-h3 {
+h3, h4 {
     margin: 15 px;
     color: blue;
 }
