@@ -1,9 +1,7 @@
-h1 {
-    margin: 20 px;
-    color: red;
-}
-
-h3, h4 {
-    margin: 15 px;
-    color: blue;
+.container-fluid {
+    background-image: url(FlowerOfLifeFractal.png);
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
