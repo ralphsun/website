@@ -5,3 +5,18 @@
     padding-top: 250px;
     padding-bottom: 250px;
 }
+
+h2 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
