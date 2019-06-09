@@ -20,3 +20,11 @@ p {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+.nav-item-active {
+    color: whitesmoke;
+}
+
+.navbar-toggler {
+    color: whitesmoke;
+}
