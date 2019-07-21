@@ -8,11 +8,10 @@ www.ralphsun.com
 
 ## Tech Stack
 
-HTML/CSS/JavaScript
-Bootstrap
+HTML/CSS/JavaScript + Bootstrap
 
 ## Hosts
 
-Netlfiy
+Netlify
 Auto builds & deploys on push to master
 
