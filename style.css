@@ -1,9 +1,16 @@
-.image-container {
-    margin-left: auto;
-    margin-right: auto;
+html {
+    background-color: lightcyan;
+}
+
+.heading {
+    padding: 20px;
+    text-align: center;
 }
 
 .image-container > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     max-height: 500px;
 }
 
@@ -21,10 +28,9 @@
     background-color: lightcyan;
 }
 
-.nav-item-active {
-    color: whitesmoke;
-}
-
-.navbar-toggler {
-    color: whitesmoke;
+#intro {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 600px;
 }
