@@ -18,6 +18,11 @@ html {
     padding: 3px;
 }
 
+.footer {
+    padding: 5px;
+    text-align: center;
+}
+
 .heading {
     padding: 15px;
     text-align: center;
