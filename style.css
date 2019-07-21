@@ -1,20 +1,24 @@
+.image-container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-container > img {
+    max-height: 500px;
+}
+
+.image-container > p {
+    text-align: center;
+    visibility: hidden;
+}
+
+.image-container:hover > p {
+    text-align: center;
+    visibility: visible;
+}
+
 .main-content {
     background-color: lightcyan;
-}
-
-h2 {
-    padding-top: 15px;
-    padding-bottom: 15px;
-}
-
-h3 {
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-p {
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 .nav-item-active {
