@@ -1,4 +1,18 @@
-# website
-Source code for my personal website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/15446e44-210c-4639-8f26-a92fb20541ab/deploy-status)](https://app.netlify.com/sites/keen-shannon-608776/deploys)
 
-Work in progress, will have major updates soon with new domain name
+# website
+
+## General
+
+www.ralphsun.com
+
+## Tech Stack
+
+HTML/CSS/JavaScript
+Bootstrap
+
+## Hosts
+
+Netlfiy
+Auto builds & deploys on push to master
+
